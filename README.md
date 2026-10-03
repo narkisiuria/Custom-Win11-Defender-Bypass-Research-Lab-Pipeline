@@ -1,4 +1,4 @@
-# Custom Windows 11 Defender Bypass Research Lab Pipeline
+# Custom Win 11 Defender Bypass Research Lab Pipeline
 
 A custom Windows Defender bypass and persistence pipeline built for Red Team education and lab practice. This repository provides an end-to-end (ETE) blueprint and documentation suite demonstrating how custom loaders, stagers, and encryption routines interact to defeat modern security controls on a fully updated Windows 11 host with Cloud Protection enabled.
 
